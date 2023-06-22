@@ -68,3 +68,11 @@ l1a1k2l/1h1f3a/pp3p1H/2pF4/6PP/PP3pL1/1H6/L1A3K1 w - - 1 19;variant ordamirror;h
 
 SHOGUN
 4rrk1/pp3pp1/2p+F3p/4P1n1/1P1Pb1p1/2P5/1P2B2P/R4RK1[FBBNNNPPp] b - - 1 30;variant shogun;https://www.pychess.org/XhRUCLdh
+
+MINISHOGI
+2rbk/3pp/2S2/+rSGK1/5[Gb] w - - 0 20;variant minishogi;https://www.pychess.org/nrO08xPu
+r3k/4p/1r1S1/b1g1K/1b2S[Gp] w - - 1 16;variant minishogi;https://www.pychess.org/gjPuzt3E
+r4/5/2gkG/br3/1bK1+s[pps] b - - 1 23;variant minishogi;https://www.pychess.org/gjPuzt3E
+1r1gk/2B1p/5/P1S2/K1R2[SBg] b - - 0 5;variant minishogi;https://www.pychess.org/85FGbW02
+3bk/3sp/2G2/P4/K2R1[SRBg] w - - 0 11;variant minishogi;https://www.pychess.org/DvXXxLYC
+2sk1/3bp/3R1/PG3/K2s1[GRB] w - - 1 7;variant minishogi;https://www.pychess.org/DvXXxLYC
