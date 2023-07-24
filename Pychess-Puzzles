@@ -88,6 +88,7 @@ r1s1k/2b1g/5/P2S1/KG2R[Pb] w - - 0 4;minishogi;https://www.pychess.org/2rFEyAAf
 MAKRUK
 1n5r/5R2/pp1N4/6k1/8/PP3s1m~/3S4/5K2 b - - 14 46;makruk;https://www.pychess.org/Xf04Dbc3
 8/2m1k3/p2R1p2/1p5p/1P1PrP2/P2K3P/5M2/8 w - - 1 38;makruk;https://www.pychess.org/MNiuuFUa
+6r1/5nr1/4R2R/p1kp4/8/1PP1M2K/8/8 w - - 0 1;makruk;https://www.pychess.org/analysis/makruk?fen=6r1/5nr1/4R2R/p1kp4/8/1PP1M2K/8/8_w_-_-_0_1
 
 KYOTOSHOGI
 n1k2/3n1/5/1+p+SKs/5[LLp] w - - 4 9;kyotoshogi;https://www.pychess.org/PksCdIqT
@@ -156,3 +157,8 @@ rvs1k1svr/4o4/p5p1p/2p6/5+P3/3PV+p3/P1PQj3P/4O4/RVS1K1S1R b - - 6 12;chak;https:
 2+K6/4oS3/3s1p3/3jpk3/9/9/4V4/4O4/9 b - - 4 44;chak;https://www.pychess.org/Nkut7blA
 2+K6/4oS3/3s1p3/3Vp4/9/4+k4/9/4O4/9 b - - 0 46;chak;https://www.pychess.org/Nkut7blA
 6s2/4o4/2s+K2R1p/1p3+P3/9/2P6/P3r4/5S1+k1/9 w - - 0 38;chak;https://www.pychess.org/Q4wMNTWN
+9/3j5/r8/1+K1+P+P3v/6+k2/6s2/4S4/4O4/9 b - - 5 47;chak;https://www.pychess.org/MSJRwRPW
+
+ATOMIC
+2r5/p6p/1pp1pR2/2n5/5P1k/PP1P4/4P2P/1NRK3B w C - 1 20;atomic;https://www.pychess.org/PNmqxqt6
+nq2k1rb/p1p1pppp/1p4n1/3p4/2P5/8/PP1PPPPP/1QBRK1RB w GDg - 1 7;atomic;https://www.pychess.org/YFN7Ihll
